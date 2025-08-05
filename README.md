@@ -9,3 +9,6 @@ The first section of the report focuses on EDA, while the second portion focuses
 - Summary and actionable insights
 - Model construction (KNIME)
 - Results
+
+## File
+- 'ida report.pdf': The full report.
