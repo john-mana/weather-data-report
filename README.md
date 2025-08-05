@@ -11,4 +11,5 @@ The first section of the report focuses on EDA, while the second portion focuses
 - Results
 
 ## File
-- 'ida_report.pdf': The full report.
+- [ida_report.pdf](Final_Report.pdf): The full project report.
+
